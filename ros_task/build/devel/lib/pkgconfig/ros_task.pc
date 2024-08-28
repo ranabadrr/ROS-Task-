@@ -1,0 +1,8 @@
+prefix=/home/rana/catkin_ws/src/ros_task/build/devel
+
+Name: ros_task
+Description: Description of ros_task
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,9 @@
+<launch>
+  <node pkg="ros_task" type="publisher_node.py" name="publisher_node" output="screen">
+  
+  </node>
+
+  <node pkg="ros_task" type="subscriber_node.py" name="subscriber_node" output="screen">
+
+  </node>
+</launch>

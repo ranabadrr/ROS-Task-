@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rana/catkin_ws/src/ros_task/build/devel/setup.sh
